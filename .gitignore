@@ -25,4 +25,4 @@ dist-ssr
 token.txt
 
 # firebase secret stuff
-!src/firebaseConfig.ts
+src/firebaseConfig.ts
